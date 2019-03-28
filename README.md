@@ -1,7 +1,7 @@
 # Omifood
 Moderm Responsive, Semantic HTML5, and CSS3 Project
 
-#What I Learned
+# What I Learned
 -Semantic Html 5
 -CSS3
 -Responsive layout (media queries)
