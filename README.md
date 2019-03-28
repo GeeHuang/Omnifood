@@ -7,4 +7,3 @@ Moderm Responsive, Semantic HTML5, and CSS3 Project
 -Responsive layout (media queries)
 -Jquery
 -Using various plugins (fontawsome, animate.css, grid.cc, normalize.css, waypoints.js)
--
